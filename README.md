@@ -15,11 +15,10 @@ A simple **Floppy Bird** clone made using **HTML, CSS, and JavaScript**. The gam
 
 ## How to Play
 
-1. Open `index.html` in a browser or use [GitHub Pages URL](https://YourUsername.github.io/floppy-bird/) (replace with your live URL).  
+1. Open `index.html` in a browser or use [GitHub Pages URL](https://bhuvana908.github.io/flappy-bird-web/).  
 2. Press any key or click to make the bird flap.  
 3. Avoid hitting the pipes or the ground.  
 4. Your score increases for every pipe you successfully pass.  
 5. When the game ends, press any key or click to restart.
 
-## Project Structure
 
